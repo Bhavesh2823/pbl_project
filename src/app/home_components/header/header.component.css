@@ -13,6 +13,8 @@
     font-size: 18px;
     margin: 10px;
     margin-bottom: -20px;
+    margin-top: 0;
+    padding-top: 10px;
 }
 .header .content .middle{
     /* border: 1px solid yellow; */

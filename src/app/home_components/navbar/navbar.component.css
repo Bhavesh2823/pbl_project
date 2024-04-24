@@ -22,3 +22,8 @@
    cursor: pointer;
    color: white;
 }
+
+.navbar .menu li a{
+    text-decoration: none;
+    color: #fff;
+}
